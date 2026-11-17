@@ -10,7 +10,7 @@ btn.onclick = function(){
     if (age >= 18){
         result.textContent = "adult";
     } else {
-        result.textContent = "mineur";
+        result.textContent = "minor";
     }
 
 };
